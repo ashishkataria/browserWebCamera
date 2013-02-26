@@ -1,0 +1,3 @@
+Project goal is to facilitate users to access built-in webcams or connected USB webcams directly from web page.
+No Need to register or copy any DLL's at user side. It's a web based i.e. Java Applet web embedded.
+user is able to capture, crop and save images from a live streaming to desktop or to the specified server.
