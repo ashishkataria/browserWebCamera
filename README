@@ -7,5 +7,7 @@ For Executing: Download Signed JAR i.e. webcam.jar available in Signed JAR Folde
 Standalone Applet: Run MyAppletLauncher.java class for executing the project.
 Just Export this myeclipse code as a Jar, Sign it and embed it in a web page as Java Applet invoking MyAppletLauncher.java class.
 
+Pre-requisites: JAVA Enabled browser, JRE Installed
+
 Want to see Running App:
 http://ashmek.weebly.com/1/post/2013/02/webcam-image-capturing-and-cropping-in-web-browser.html
