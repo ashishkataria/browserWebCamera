@@ -3,6 +3,7 @@ It's a web based  i.e. Java Applet web embedded.
 User is able to capture, crop and save images from a live streaming (all in web page) to his PC or to the configured remote server.
 
 No Need to register or copy any DLL's at user side. I have Integrated class loader to load classes, native libraries and resources by itself.
+
 Added prominent Live image cropping feature. 
 
 Library Used: LTI-CIVIL 
